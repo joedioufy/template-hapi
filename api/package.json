@@ -1,0 +1,25 @@
+{
+  "name": "hapi-template",
+  "version": "1.0.0",
+  "description": "HapiJS project template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joedioufy/template-hapi.git"
+  },
+  "keywords": [
+    "hapijs",
+    "template",
+    "nodejs"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha ressources/**/*.test.js --timeout 50000"
+  },
+  "author": "Joe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joedioufy/template-hapi.git"
+  },
+  "homepage": "https://github.com/joedioufy/template-hapi.git#readme"
+}
